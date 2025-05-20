@@ -48,7 +48,7 @@ const MobileNav = ({ isOpen, onClose, links, activePath }: MobileNavProps) => {
             
             <div className="flex items-center pt-2 border-t">
               <Phone className="h-4 w-4 mr-2 text-primary" />
-              <span className="text-sm">+1 (555) 123-4567</span>
+              <span className="text-sm">+62 (555) 123-4567</span>
             </div>
             
             <Button className="w-full" onClick={onClose}>

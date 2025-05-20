@@ -77,7 +77,7 @@ const Header = () => {
         <div className="hidden md:flex items-center space-x-2">
           <div className="hidden lg:flex items-center mr-4">
             <Phone className="h-4 w-4 mr-2 text-primary" />
-            <span className="text-sm">+1 (555) 123-4567</span>
+            <span className="text-sm">+62 (555) 123-4567</span>
           </div>
           <Button asChild size="sm">
             <Link href="/appointment">Book Appointment</Link>

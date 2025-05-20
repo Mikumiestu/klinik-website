@@ -18,8 +18,8 @@ const contactInfo = [
     icon: <Phone className="h-6 w-6" />,
     title: "Phone Numbers",
     details: [
-      "Main: +1 (555) 123-4567",
-      "Emergency: +1 (555) 987-6543",
+      "Main: +62 (555) 123-4567",
+      "Emergency: +62 (555) 987-6543",
     ],
   },
   {

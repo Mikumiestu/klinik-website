@@ -43,7 +43,7 @@ const AppointmentCTA = () => {
                 </div>
                 <div>
                   <h3 className="text-white font-medium mb-1">Call Us</h3>
-                  <p className="text-white/80 text-sm">+1 (555) 123-4567</p>
+                  <p className="text-white/80 text-sm">+62 (555) 123-4567</p>
                 </div>
               </div>
               
@@ -103,7 +103,7 @@ const AppointmentCTA = () => {
                   <input
                     type="text"
                     id="firstName"
-                    className="w-full rounded-md border border-input bg-background text-sm"
+                    className="w-full rounded-md border border-input bg-background text-sm p-2"
                   />
                 </div>
                 
@@ -114,7 +114,7 @@ const AppointmentCTA = () => {
                   <input
                     type="text"
                     id="lastName"
-                    className="w-full rounded-md border border-input bg-background text-sm"
+                    className="w-full rounded-md border border-input bg-background text-sm p-2"
                   />
                 </div>
               </div>
@@ -126,7 +126,7 @@ const AppointmentCTA = () => {
                 <input
                   type="email"
                   id="email"
-                  className="w-full rounded-md border border-input bg-background text-sm"
+                  className="w-full rounded-md border border-input bg-background text-sm p-2"
                 />
               </div>
               
@@ -137,7 +137,7 @@ const AppointmentCTA = () => {
                 <input
                   type="tel"
                   id="phone"
-                  className="w-full rounded-md border border-input bg-background text-sm"
+                  className="w-full rounded-md border border-input bg-background text-sm p-2"
                 />
               </div>
               
@@ -147,7 +147,7 @@ const AppointmentCTA = () => {
                 </label>
                 <select
                   id="service"
-                  className="w-full rounded-md border border-input bg-background text-sm"
+                  className="w-full rounded-md border border-input bg-background text-sm p-2"
                 >
                   <option value="">Select a service</option>
                   <option value="general-medicine">General Medicine</option>
@@ -165,7 +165,7 @@ const AppointmentCTA = () => {
                 <input
                   type="date"
                   id="date"
-                  className="w-full rounded-md border border-input bg-background text-sm"
+                  className="w-full rounded-md border border-input bg-background text-sm p-2"
                 />
               </div>
               
@@ -176,7 +176,7 @@ const AppointmentCTA = () => {
                 <textarea
                   id="message"
                   rows={3}
-                  className="w-full rounded-md border border-input bg-background text-sm"
+                  className="w-full rounded-md border border-input bg-background text-sm p-2"
                 ></textarea>
               </div>
               
