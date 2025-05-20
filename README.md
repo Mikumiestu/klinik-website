@@ -32,11 +32,9 @@ Website resmi MediCare Clinic, menyediakan informasi layanan kesehatan, dokter, 
    npm install
    ```
 2. Jalankan development server
-   ``sh
+
+   ```sh
    npm run dev
-
-   ```
-
    ```
 
 3. Buka [http://localhost:3000](http://localhost:3000) di browser
